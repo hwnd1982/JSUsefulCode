@@ -113,5 +113,4 @@ getData((data) => {
   console.log('newHero: ', newHero);
 });
 }
-
 }
